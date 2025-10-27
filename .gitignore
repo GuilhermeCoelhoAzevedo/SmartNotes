@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Database
+db.sqlite3
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+#Idea
+.idea/
