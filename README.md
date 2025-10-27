@@ -124,4 +124,4 @@ Django-esst/
 ## 🧑‍💻 Development Notes
 
 - Always activate your virtual environment before running Django.
-- Course link: https://www.linkedin.com/learning-login/share?account=2189292&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdjango-essential-training-25094632%3Ftrk%3Dshare_ent_url%26shareId%3D7WX6qeJQTBeHRIJ244RQbw%253D%253D
+- Course link: [link](https://www.linkedin.com/learning-login/share?account=2189292&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdjango-essential-training-25094632%3Ftrk%3Dshare_ent_url%26shareId%3D7WX6qeJQTBeHRIJ244RQbw%253D%253D)
